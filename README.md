@@ -1,1 +1,1 @@
-# Conference 2018
+# Compas 2018 (Toulouse)
