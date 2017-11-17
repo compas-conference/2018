@@ -119,14 +119,12 @@ header.masthead {
 
   min-height : 100%;
   min-width : 100%;
-  background-size:100% 150%;
+  background-size:150% 150%;
 
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+
  }
   header.masthead .intro-text {
     padding-top: 150px;
