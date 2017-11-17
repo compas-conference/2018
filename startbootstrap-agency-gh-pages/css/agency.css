@@ -113,8 +113,8 @@ body {
         padding: 12px 0; } }
 
 header.masthead {
-  text-align: center;
-  color: #5bc0de;
+  text-align: top;
+  color: #4285F4;
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
