@@ -122,7 +122,8 @@ header.masthead {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: 100% auto; }
+  background-size: 100%;
+  height: 1200px; }
   header.masthead .intro-text {
     padding-top: 150px;
     padding-bottom: 100px; }
